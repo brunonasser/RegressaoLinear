@@ -1,2 +1,2 @@
 # RegressaoLinear
-Um resumo do algoritmo de regressão linear e aplicações
+Um resumo do modelo de regressão linear e aplicações
